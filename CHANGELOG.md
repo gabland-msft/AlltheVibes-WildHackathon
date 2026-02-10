@@ -1,6 +1,29 @@
 # Changelog
 
 
+## [2026-02-10] — Changes `9ec00ba` to `978201f`
+
+### 📦 Other
+- Merge pull request #5 from lshade/feature/knock-knock
+- Knock Knock Who's There
+
+<details><summary>Files changed</summary>
+
+```
+ KnockKnock/.env.example         |  2 +
+ KnockKnock/.gitignore           |  5 +++
+ KnockKnock/README.md            | 58 +++++++++++++++++++++++++++
+ KnockKnock/knock_knock_agent.py | 88 +++++++++++++++++++++++++++++++++++++++++
+ KnockKnock/requirements.txt     |  2 +
+ 5 files changed, 155 insertions(+)
+```
+</details>
+
+---
+
+
+
+
 ## [2026-02-10] — Changes `65b66d8` to `b3855fc`
 
 ### 🆕 New Features

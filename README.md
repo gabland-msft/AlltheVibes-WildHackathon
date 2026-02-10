@@ -159,9 +159,7 @@ No coding standards. No linting rules. No cleanup expectations. Just vibes.
 
 ## Recent Changes
 
-See [CHANGELOG.md](CHANGELOG.md) for the full auto-generated history.
-
----
+See [CHANGELOG.md](CHANGELOG.md) for a full history of changes.
 
 ## License
 
